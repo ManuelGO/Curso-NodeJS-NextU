@@ -105,6 +105,6 @@ io.on('connection', (socket)=>{
     });
 });
 
-server.listen(4000, function(){
+server.listen(3000, function(){
 	console.log('App running at port 3000');
 })
